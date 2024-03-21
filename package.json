@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@polymer/lit-element": "0.5.2",
-    "@polymer/polymer": "3.0.5",
+    "@polymer/polymer": "3.5.1",
     "@tensorflow-models/posenet": "^0.2.2",
     "@tensorflow/tfjs": "^0.13.0",
     "animitter": "3.0.0",
