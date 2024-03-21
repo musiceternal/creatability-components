@@ -18,7 +18,7 @@
     "@tensorflow-models/posenet": "^0.2.2",
     "@tensorflow/tfjs": "^0.13.0",
     "animitter": "3.0.0",
-    "lit-html": "^0.10.0",
+    "lit-html": "^0.14.0",
     "shortid": "2.2.8"
   },
   "devDependencies": {
