@@ -2,14 +2,14 @@
 # yarn lockfile v1
 
 
-"@polymer/lit-element@0.5.2":
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/@polymer/lit-element/-/lit-element-0.5.2.tgz#8d4e2d1ada27cf0f1a38b7b0eb9fadae92eb63df"
+"@polymer/lit-element@0.7.1":
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/@polymer/lit-element/-/lit-element-0.7.1.tgz#cded2d11ff4308f9ce3e4001d893198dabced639"
+  integrity sha512-aYSzVhC19l7xSm73aHI06VPcD/H+GxpFNZrhbJ+zVIpgAveOgGp5Ga7UtTBHQCdHlJbZ0dMlaBXMZ3twgXCokg==
   dependencies:
-    "@polymer/polymer" "^3.0.2"
-    lit-html "^0.10.0"
+    lit-html "^1.0.0-rc.2"
 
-"@polymer/polymer@3.0.5", "@polymer/polymer@^3.0.2":
+"@polymer/polymer@3.0.5":
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/@polymer/polymer/-/polymer-3.0.5.tgz#eaa42e70df7de818b5e1839452c82a5f83e39929"
   dependencies:
@@ -2879,6 +2879,11 @@ leb@^0.3.0:
 lit-html@^0.10.0:
   version "0.10.2"
   resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-0.10.2.tgz#53c846afcf91bb1e6623179ef22e327ab8ac0e0e"
+
+lit-html@^1.0.0-rc.2:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-1.4.1.tgz#0c6f3ee4ad4eb610a49831787f0478ad8e9ae5e0"
+  integrity sha512-B9btcSgPYb1q4oSOb/PrOT6Z/H+r6xuNzfH4lFli/AWhYwdtrgQkQWBbIc6mdnf6E2IL3gDXdkkqNktpU0OZQA==
 
 load-json-file@^4.0.0:
   version "4.0.0"
